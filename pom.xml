@@ -38,7 +38,7 @@
             <version>3.0.1.Final</version>
             <exclusions>
                 <exclusion>
-                    <groupId>org.apache.xalan</groupId>
+                    <groupId>xalan</groupId>
                     <artifactId>xalan</artifactId>
                 </exclusion>
             </exclusions>
